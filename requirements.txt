@@ -3,5 +3,5 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
-img2pdf
-Pillow
+img2pdf==0.6.1
+Pillow==11.2.1
